@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About 
+I am a senior research scientist at UCLA. My current research spans high-dimensional quantum systems, quantum networks and communications, chip-scale quantum computing, and nonlinear quantum photonics. He has established more than 20 manuscripts, with publications in top quantum physics and photonics journals (such as Nature Photonics, Newton, npj Quantum Information, Optica Quantum, Photonics Research, Communications Physics, Quantum Science and Technology, APL Quantum, and Optics Express), together with 46 conference papers in CLEO, APS, SPIE, and one patent. He has received prestigious awards, including the UCLA Dissertation Year Fellowship, J. Yang Scholarship, the Electrical and Computer Engineering Department Fellowship, the Ministry of Education Fellowship, and was also a finalist for the Chancellor Award for Postdoctoral Research and PH.D. Dissertation Research Award.
+
+## Research Interests
+* **Quantum and Nonlinear Optics with Artificial Intelligence:** 
+* **High-Dimensional Photonic Quantum System:** 
+* **Quantum Information Science and Technology:**
+* **Large-Alphabet Quantum Network and Communication Links:**
+* **Chip-Scale Quantum Computing:**
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
